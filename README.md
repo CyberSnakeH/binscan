@@ -1,5 +1,7 @@
 # binscan
 
+[![ci](https://github.com/CyberSnakeH/binscan/actions/workflows/ci.yml/badge.svg)](https://github.com/CyberSnakeH/binscan/actions/workflows/ci.yml)
+
 Small OCaml utility to scan binary files and produce a reverse-ready report.
 
 Features:
