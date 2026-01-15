@@ -1,0 +1,17 @@
+/_build/
+/_opam/
+/.opam-switch/
+/.merlin
+/_coverage/
+*.install
+*.cmt
+*.cmti
+*.cmx
+*.cmi
+*.cma
+*.cmxa
+*.o
+*.a
+*.so
+*.dSYM
+.DS_Store
